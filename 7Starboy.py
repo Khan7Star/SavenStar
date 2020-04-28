@@ -59,7 +59,7 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthor  \033[1;93m: \033[1;Khuramkhan
 \033[1;96mInstagram \033[1;93m: \033[1;Khuram
 \033[1;96mFacebook  \033[1;93m: \033[1; 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mGithub \033[1;93m: \033[1;https://github.com/Khan7Star/SavenStar
 \033[1;91m======================================="""
 
 def tik():
@@ -88,7 +88,7 @@ print  """\033[1;91m=======================================
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "7Star"
-CorrectPassword = "rana"
+CorrectPassword = "khan"
 
 loop = 'true'
 while (loop == 'true'):
